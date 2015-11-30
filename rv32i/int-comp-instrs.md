@@ -40,4 +40,4 @@ RV32I 定义了几种算术 R格式的指令。所有指令读取源操作数寄
 
 `NOP` 指令不会改变任何用户可见的状态，除了增加 PC（except for advancing the pc）。 `NOP` 被编码成 `ADDI x0, x0, 0` 。
 
-> NOPs 可以被用来让代码片段在微体系结构上进行有效地址边界的对齐（align code segments to microarchitecturally signicant address boundaries），或者留给修改内联（inline）代码的空间。尽管有多种编码 NOP 指令的方式，我们定义了标准的（canonical）NOP 编码格式，允许微体系结构的优化和使得反汇编输出更易读。
+> NOPs 可以被用来让代码片段在微体系结构上进行有效地址边界的对齐（align code segments to microarchitecturally significant address boundaries），或者留给修改内联（inline）代码的空间。尽管有多种编码 NOP 指令的方式，我们定义了标准的（canonical）NOP 编码格式，允许微体系结构的优化和使得反汇编输出更易读。
