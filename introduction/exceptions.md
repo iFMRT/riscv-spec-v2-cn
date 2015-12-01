@@ -16,5 +16,5 @@
 
 
 
-  [1]: https://github.com/kippy620/Translation/blob/master/image/photo1.jpg
-  [2]: https://github.com/kippy620/Translation/blob/master/image/photo2.jpg
+  [1]: /img/photo1.jpg
+  [2]: /img/photo2.jpg
