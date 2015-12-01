@@ -4,26 +4,10 @@
   - [指令长度编码格式](introduction/instr-leng-encoding.md)
   - [异常，自陷和中断](introduction/exceptions.md)
 
-<<<<<<< HEAD
-* [Introduction](introduction/README.md)
- - [RISC-V ISA Overview](introduction/overview.md)
- - [Instruction Length Encoding](introduction/instr-leng-encoding.md)
- - [Exceptions, Traps, and Interrupts](introduction/exceptions.md)
-* [RV32I 基本整型指令集](rv32i/README.md)
- - [程序员可见的基本整型子集模型](rv32i/programmers-model.md)
- - [基本指令格式](rv32i/base-instr-formats.md)
- - [立即数编码变体](rv32i/imm-encoding-vars.md)
- - [Integer Computational Instructions](rv32i/int-comp-instrs.md)
- - [控制转移指令](rv32i/ctrl-tran-instrs.md)
- - [取数和存数指令](rv32i/load-store-instrs.md)
-
-
-=======
 - [RV32I 基本整型指令集](rv32i/README.md)
   - [程序员可见的基本整型子集模型](rv32i/programmers-model.md)
   - [基本指令格式](rv32i/base-instr-formats.md)
   - [立即数编码变体](rv32i/imm-encoding-vars.md)
   - [整型计算指令](rv32i/int-comp-instrs.md)
-  - [Control Transfer Instructions](rv32i/ctrl-tran-instrs.md)
-  - [Load and Store Instructions](rv32i/load-store-instrs.md)
->>>>>>> 9320f509615da11b2d27392feb5be4b2d6edcc04
+  - [控制转移指令](rv32i/ctrl-tran-instrs.md)
+  - [取数和存数指令](rv32i/load-store-instrs.md)

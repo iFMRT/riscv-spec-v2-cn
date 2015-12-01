@@ -12,5 +12,5 @@
   - [基本指令格式](rv32i/base-instr-formats.md)
   - [立即数编码变体](rv32i/imm-encoding-vars.md)
   - [整型计算指令](rv32i/int-comp-instrs.md)
-  - [Control Transfer Instructions](rv32i/ctrl-tran-instrs.md)
-  - [Load and Store Instructions](rv32i/load-store-instrs.md)
+  - [控制转移指令](rv32i/ctrl-tran-instrs.md)
+  - [取数和存数指令](rv32i/load-store-instrs.md)
