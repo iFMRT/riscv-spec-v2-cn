@@ -1,8 +1,8 @@
 # Summary
-- [Introduction](introduction/README.md)
-  - [RISC-V ISA Overview](introduction/overview.md)
-  - [Instruction Length Encoding](introduction/instr-leng-encoding.md)
-  - [Exceptions, Traps, and Interrupts](introduction/exceptions.md)
+- [介绍](introduction/README.md)
+  - [RISC-V ISA 概述](introduction/overview.md)
+  - [指令长度编码格式](introduction/instr-leng-encoding.md)
+  - [异常，自陷和中断](introduction/exceptions.md)
 
 - [RV32I 基本整型指令集](rv32i/README.md)
   - [程序员可见的基本整型子集模型](rv32i/programmers-model.md)
