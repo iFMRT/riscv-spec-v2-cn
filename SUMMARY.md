@@ -8,7 +8,7 @@
  - [程序员可见的基本整型子集模型](rv32i/programmers-model.md)
  - [基本指令格式](rv32i/base-instr-formats.md)
  - [立即数编码变体](rv32i/imm-encoding-vars.md)
- - [Integer Computational Instructions](rv32i/int-comp-instrs.md)
+ - [整型计算指令](rv32i/int-comp-instrs.md)
  - [Control Transfer Instructions](rv32i/ctrl-tran-instrs.md)
  - [Load and Store Instructions](rv32i/load-store-instrs.md)
 

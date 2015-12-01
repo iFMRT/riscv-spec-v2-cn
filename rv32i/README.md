@@ -8,6 +8,6 @@
  - [2.1 程序员可见的基本整型子集模型](programmers-model.md)
  - [2.2 基本指令格式](base-instr-formats.md)
  - [2.3 立即数编码变体](imm-encoding-vars.md)
- - [2.4 Integer Computational Instructions](int-comp-instrs.md)
+ - [2.4 整型计算指令](int-comp-instrs.md)
  - [2.5 Control Transfer Instructions](ctrl-tran-instrs.md)
  - [2.6 Load and Store Instructions](load-store-instrs.md)
