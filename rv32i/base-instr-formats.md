@@ -1,7 +1,8 @@
 ## 2.2 基本指令格式 ##
 
-> 译者：范毅　[＠beyondskyml](https://github.com/beyondskyml)
-> 校对：咧威　[＠colin4124](https://github.com/colin4124)
+> 译者：范毅（[＠beyondskyml](https://github.com/beyondskyml)）
+
+> 校对：咧威（[＠colin4124](https://github.com/colin4124)）
 
 如图 2.2，基本 ISA 中有 4 种核心的指令格式（R / I / S / U）。四者的长度固定为 32 位，在内存中必须按字（４个字节）对齐。在取指令时，如果 pc 未按字对齐，会产生指令地址未对齐异常。
 

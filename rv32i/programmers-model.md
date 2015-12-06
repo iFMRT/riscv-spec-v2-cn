@@ -1,7 +1,8 @@
 ## 2.1 程序员可见的基本整型子集模型 ##
 
-> 译者：范毅　[＠beyondskyml](https://github.com/beyondskyml)
-> 校对：咧威　[＠colin4124](https://github.com/colin4124)
+> 译者：范毅（[＠beyondskyml](https://github.com/beyondskyml)）
+
+> 校对：咧威（[＠colin4124](https://github.com/colin4124)）
 
 图 2.1 展示了基本整型子集中用户可见的状态。有 31 个用来保存整型值的通用寄存器 x1-x31 。寄存器 x0 硬连线成常数 0。虽然没有硬连线的子程序返回地址链接寄存器，但是根据标准软件调用协议，在一个子程序调用中应该使用寄存器 x1 来保存返回地址。对于 RV32，x 寄存器为 32 位宽，对于 RV64 则是 64 位宽。本文档使用 XLEN 指代当前 x 寄存器位宽（32 或者 64）。
 

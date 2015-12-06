@@ -1,7 +1,8 @@
 ## 2.3 立即数编码变体 ##
 
-> 译者：范毅　[＠beyondskyml](https://github.com/beyondskyml)
-> 校对：咧威　[＠colin4124](https://github.com/colin4124)
+> 译者：范毅（[＠beyondskyml](https://github.com/beyondskyml)）
+
+> 校对：咧威（[＠colin4124](https://github.com/colin4124)）
 
 对于处理立即数，还有两种指令格式变体（SB / UJ），如图 2.3 所示。
 
