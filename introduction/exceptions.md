@@ -6,15 +6,10 @@
 
 > 我们的“异常”和“自陷”的使用和在 IEEE-754 中的浮点标准相匹配。
 
-![photo1][1]
+![photo1](img/photo1.jpg)
 
 图 1.1：RISC-V 指令长度编码格式   
 
-![photo2][2]
+![photo2](img/photo2.jpg)
 
 图 1.2：从寄存器中存储 32-bit 指令到存储器中建议的代码顺序。在大头优先和小头优先的存储系统中都能正确地操作并且避免了当有变长指令集拓展被使用时，不对齐的访问。
-
-
-
-  [1]: https://github.com/kippy620/Translation/blob/master/image/photo1.jpg
-  [2]: https://github.com/kippy620/Translation/blob/master/image/photo2.jpg
