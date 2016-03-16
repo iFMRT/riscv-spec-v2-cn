@@ -164,7 +164,7 @@ M-mode 包括一个时钟设施，由 `mtimecmp` 寄存器和实时计数器 `mt
 
 ![图 3.13](img/3-13.png)
 
-![表 3.7](img/3-7.png)
+![表 3.7](img/t3-7.png)
 
 ### 3.1.16 Machine Bad Address (mbadaddr) Register
 
